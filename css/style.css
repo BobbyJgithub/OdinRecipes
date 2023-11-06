@@ -1,0 +1,87 @@
+* {
+    font-family: Verdana, sans-serif;
+    background-color: #fffffc;
+}
+
+.home {
+    height: auto;
+    width: 25px;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+    font-weight: 100;
+}
+
+.index .title .r {
+    font-weight: 900;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 200px;
+}
+
+.index .button-block {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #ccd5ae;
+    color: #fffffc;
+    border-radius: 25px;
+}
+
+.index .attr {
+    display: block;
+    text-align: center;
+    font-size: 7px;
+    font-weight: 100;
+    text-decoration: none;
+    color: grey
+}
+
+.description, .description p, h2{
+    background-color: #fcf3f2;
+    padding: 7px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.ingredients, ul, .ingredients li, h3, .ingredients p{
+    background-color: #f0f7f3;
+    padding: 7px;
+    border-radius: 20px;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.instruction, ol, .instruction li, h4 {
+    background-color: #fefbe9;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+.fn {
+    font-weight: 900;
+    text-align: center;
+    font-size: 15px;
+}
+
+.note {
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10px;
+}
+
